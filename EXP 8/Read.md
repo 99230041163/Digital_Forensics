@@ -82,7 +82,7 @@ bash
 javac -cp commons-math3-3.1.1.jar -source 1.8 -target 1.8 *.java
 
 
-![WhatsApp Image 2025-10-26 at 23 22 10_0148747c](https://github.com/srihari2082005-ctrl/img-1/blob/4abd92026d075954ccd991870467578f04e03b9b/Screenshot%202025-10-27%20184057.png)
+![WhatsApp Image 2025-10-26 at 23 22 10_0148747c](https://github.com/sankar12x/img/blob/ee1ed336fbbed91f4d1a23f51e244de8c56772d0/Screenshot%202025-10-28%20053250.png)
 
 
 💡 Note: Ignore warnings like RSAnalysis.java uses unchecked or unsafe operations. Compilation is successful if .class files are generated.
@@ -105,7 +105,7 @@ bash
 jar cfm StegExpose.jar manifest.mf *.class
 
 
-<img width="1478" height="96" alt="{32B41693-9868-4C22-A6F4-82C8DEDF50A2}" src="https://github.com/srihari2082005-ctrl/img-1/blob/c61820d0056d3def2b980c575a4f4e771116796b/Screenshot%202025-10-27%20180809.png" />
+<img width="1478" height="96" alt="{32B41693-9868-4C22-A6F4-82C8DEDF50A2}" src="https://github.com/sankar12x/img/blob/43a9176540666193273a74f3822f7a1e51aaaaa9/Screenshot%202025-10-28%20053654.png" />
 
 
 ✅ You now have StegExpose.jar ready to use.
